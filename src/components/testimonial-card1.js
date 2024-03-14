@@ -39,7 +39,7 @@ TestimonialCard1.defaultProps = {
   rootClassName: '',
   name: 'Praneeth Piris',
   quote:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem lorem, malesuada in metus vitae, scelerisque accumsan ipsum.  Nam pellentesque nulla leo, sagittis vehicula sem commodo nec.',
+    "Software engineering blends creativity and technical expertise, driving global innovation and problem-solving. Each line of code has the power to transform industries and improve lives. As architects of the digital era, we design intricate solutions to complex challenges. Every bug fix, algorithm enhancement, and feature implementation moves us closer to unlocking technology's full potential. Our mission extends beyond coding; it's about empowering individuals, businesses, and societies to thrive. Overcoming each challenge ignites our passion for excellence and propels us toward pushing the boundaries of software engineering.",
 }
 
 TestimonialCard1.propTypes = {

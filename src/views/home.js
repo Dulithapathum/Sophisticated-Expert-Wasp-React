@@ -564,10 +564,14 @@ const Home = (props) => {
               pictureSrc="https://images.unsplash.com/photo-1557053910-d9eadeed1c58?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDF8fHdvbWFuJTIwcG9ydHJhaXR8ZW58MHx8fHwxNjI2NDUxOTgy&amp;ixlib=rb-1.2.1&amp;h=1200"
               rootClassName="rootClassName2"
             ></TestimonialCard1>
-            <TestimonialCard1 rootClassName="rootClassName"></TestimonialCard1>
+            <TestimonialCard1
+              rootClassName="rootClassName"
+              name="gfgfgf"
+            ></TestimonialCard1>
             <TestimonialCard1
               pictureSrc="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHdvbWFuJTIwcG9ydHJhaXR8ZW58MHx8fHwxNjI2NDUxOTgy&amp;ixlib=rb-1.2.1&amp;h=1200"
               rootClassName="rootClassName1"
+              name="vvbvvn"
             ></TestimonialCard1>
           </div>
         </div>
